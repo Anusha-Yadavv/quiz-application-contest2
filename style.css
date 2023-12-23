@@ -8,9 +8,15 @@ body {
 
 header {
     position: sticky;
-    z-index: 10;
-    top: 0;
-    /* background-color: white; */
+    
+        
+        z-index: 10;
+        top: 0;
+        background-color: #f5f5f7;
+    
+    
+    
+    
 
 
 }
@@ -408,6 +414,9 @@ header {
 .name {
     color: #FCC822 !important;
     text-decoration: none;
+}
+#next-question-container{
+    margin-bottom: 150px;
 }
 
 @media screen and (max-width:768px) {
